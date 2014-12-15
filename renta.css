@@ -12,9 +12,9 @@ footer {
     align-items: stretch;
 }
 nav {  // left side of screen
-    
+    flex:2;
 }
 section{  // main section of screen
-    
+    flex:8;
 }
 
