@@ -16,7 +16,11 @@ nav {  // left side of screen
     min-width:100;
     background-color:yellow;
 }
+nav>ul {
+    list-style-type: none;
+}
 section{  // main section of screen
     flex:8;
+    background-color:blue;
 }
 
