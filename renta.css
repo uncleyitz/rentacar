@@ -8,4 +8,12 @@ footer {
 }
 .container {
     display: flex;
+    align-items: flex-start;
 }
+nav {  // left side of screen
+    
+}
+section{  // main section of screen
+    
+}
+
